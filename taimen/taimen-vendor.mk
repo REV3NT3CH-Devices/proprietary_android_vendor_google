@@ -176,7 +176,6 @@ PRODUCT_PACKAGES += \
     VzwOmaTrigger \
     qcrilmsgtunnel \
     SSRestartDetector \
-    Tycho \
     VZWAPNLib \
     AmbientSensePrebuilt \
     AppDirectedSMSService \
