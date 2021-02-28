@@ -353,13 +353,6 @@ PRODUCT_PACKAGES += \
     VZWAPNLib \
     AmbientSensePrebuilt \
     AppDirectedSMSService \
-    CarrierLocation \
-    CarrierServices \
-    CarrierSettings \
-    CarrierWifi \
-    ConnMO \
-    DCMO \
-    DMService \
     DevicePersonalizationPrebuiltPixel4 \
     DiagMon \
     EuiccGoogle \
@@ -372,8 +365,6 @@ PRODUCT_PACKAGES += \
     OemDmTrigger \
     SprintDM \
     SprintHM \
-    TetheringEntitlement \
-    WfcActivation \
     obdm_stub \
     QtiTelephonyService \
     atfwd \
@@ -383,12 +374,9 @@ PRODUCT_PACKAGES += \
     uimremoteclient \
     uimremoteserver \
     xdivert \
-    CarrierSetup \
     HbmSVManager \
     LLKAgent \
     PixelNfc \
-    RilConfigService \
-    grilservice \
     ims \
     qcrilmsgtunnel \
     libhwinfo \
